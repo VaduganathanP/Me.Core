@@ -1,0 +1,13 @@
+C:\Users\vpillappan\Documents\GitHub\Me.Core\bin\Debug\netstandard2.0\Me.Core.deps.json
+C:\Users\vpillappan\Documents\GitHub\Me.Core\bin\Debug\netstandard2.0\Me.Core.dll
+C:\Users\vpillappan\Documents\GitHub\Me.Core\obj\Debug\netstandard2.0\Me.Core.AssemblyInfoInputs.cache
+C:\Users\vpillappan\Documents\GitHub\Me.Core\obj\Debug\netstandard2.0\Me.Core.AssemblyInfo.cs
+C:\Users\vpillappan\Documents\GitHub\Me.Core\bin\Debug\netstandard2.0\NitraLeveldb.dll
+C:\Users\vpillappan\Documents\GitHub\Me.Core\bin\Debug\netstandard2.0\Me.Core.pdb
+C:\Users\vpillappan\Documents\GitHub\Me.Core\obj\Debug\netstandard2.0\Me.Core.dll
+C:\Users\vpillappan\Documents\GitHub\Me.Core\obj\Debug\netstandard2.0\Me.Core.pdb
+C:\Users\vpillappan\Documents\GitHub\Me.Core\bin\Debug\netstandard2.0\LeveldbWrapper.dll
+C:\Users\vpillappan\Documents\GitHub\Me.Core\bin\Debug\netstandard2.0\LeveldbWrapper.pdb
+C:\Users\vpillappan\Documents\GitHub\Me.Core\obj\Debug\netstandard2.0\Me.Core.csproj.CopyComplete
+C:\Users\vpillappan\Documents\GitHub\Me.Core\obj\Debug\netstandard2.0\Me.Core.csprojAssemblyReference.cache
+C:\Users\vpillappan\Documents\GitHub\Me.Core\obj\Debug\netstandard2.0\Me.Core.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+﻿create table tblQuestions
+(
+	Id uniqueidentifier primary key not null default(newid()),
+	Question varchar(2000) not null 
+)
+
+create table tblAnswers
+(
+	Id uniqueidentifier primary key not null default(newid()),
+	QuestionId uniqueidentifier not null foreign key references tblQuestions(Id),
+	UsedCount int not null default(1)
+)
